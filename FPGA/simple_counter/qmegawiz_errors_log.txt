@@ -1,0 +1,16 @@
+
+
+C:/FYP/my_first_fpga/pll.v
+
+Oct 29 08PM:10:11>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/FYP/my_first_fpga/pll.v
+
+Oct 29 08PM:10:12>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/FYP/my_first_fpga/pll.v
+
+Oct 29 08PM:13:17>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
