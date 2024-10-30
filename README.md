@@ -5,4 +5,4 @@ Welcome! Here, you can view the sources codes in my ELEG4998 FYP Project
 |- myFFT.m \
 |- FourierTransformBasic.mlx
 - FPGA Codes \
-|- my_first_fpga \
+|- my_first_fpga
